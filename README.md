@@ -1,16 +1,26 @@
-### Hi there 👋
+### Olá!!! 👩‍💻 👋 
 
-<!--
-**isabela-rossetti/isabela-rossetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Quem sou eu? 
 
-Here are some ideas to get you started:
+* 👩‍💻 Analista de dados | Cientista de dados
+* 🎓 Tecnóloga em Gestão da Qualidade - UNIP
+* 🎓 Técnica em Desenvolvimento de sistemas - ETEC (em andamento)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills 👩‍💻
+
+* 🐍 Python para Ciência de Dados
+* 🔮 Machine Learning
+* 📊 Visualização de dados
+* 🧮 Power BI
+* 🕵️‍ Investigação de causa raiz
+
+### Idiomas
+🇧🇷 🇵🇹 Português - Nativo
+🇬🇧 🇺🇸 Inglês - Intermediário
+ 
+## Você também pode me encontrar em:
+[Linkedin]( https://www.linkedin.com/in/isabelarossetti/)
+
+## Meus projetos
+
+* [Regressão] (https://github.com/isabela-rossetti/FLAI-9-Competicao-M
