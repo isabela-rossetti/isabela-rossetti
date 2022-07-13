@@ -25,3 +25,4 @@
 ## Meus projetos
 
 * [Regressão] (https://github.com/isabela-rossetti/FLAI-9-Competicao-ML)
+* [Dashboard - Análise de vendas] (https://app.powerbi.com/groups/me/reports/dc7eb40d-2f81-43e4-9952-10a38dd93507/ReportSection)
