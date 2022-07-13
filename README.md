@@ -2,7 +2,8 @@
 
 ## Quem sou eu? 
 
-* 👩‍💻 Analista de dados | Cientista de dados
+* 📊 Analista de Dados 
+* 👩‍💻 Cientista de Dados
 * 🎓 Tecnóloga em Gestão da Qualidade - UNIP
 * 🎓 Técnica em Desenvolvimento de Sistemas - ETEC (em andamento)
 
