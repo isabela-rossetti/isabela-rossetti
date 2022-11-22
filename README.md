@@ -1,6 +1,6 @@
 ### Olá!!! 👩‍💻 👋 
 
-## Quem sou eu? 
+## Sou Isabela Rossetti
 
 * 🎓 Gestora
 * 📊 Analista de Dados 
@@ -29,18 +29,23 @@
 * [Previsão de alugueis de biblicletas - Regressão utilizando o PyCaret] (https://github.com/isabela-rossetti/FLAI-9-Competicao-ML)
 * [Análise de dados - Campanha de marketing - Power BI] (https://github.com/isabela-rossetti/AnaliseCampanha)
 * [Análise exploratória de dados com Python e Pandas] (https://github.com/isabela-rossetti/analise_de_dados_python_pandas)
+* [Análise exploratória de uma Superstore utilizando serviços de BigData na AWS] (https://github.com/isabela-rossetti/analise_exploratoria_superstore_bigdata_aws)
 * [Análise da evolução da COVID-19 no Brasil utilizando ARIMA e Prophet] (https://github.com/isabela-rossetti/analise_de_dados_covid)
 * [Projeto Conceitual de Banco de Dados_E-Commerce] (https://github.com/isabela-rossetti/projeto_conceitual_bd_ecommerce)
 * [Projeto Lógico de Banco de Dados_E-Commerce e Queries SQL] (https://github.com/isabela-rossetti/projeto_logico_bd_ecommerce)
 * [Projeto Conceitual de Banco de Dados_Oficina] (https://github.com/isabela-rossetti/projeto_conceitual_bd_oficina)
 * [Projeto Lógico de Banco de Dados_Oficina e Queries SQL] (https://github.com/isabela-rossetti/projeto_logico_bd_oficina)
+* [Criação de Banco de Dados DynamoDB] (https://github.com/isabela-rossetti/banco_de_dados_dynamoDB)
+* [Criação de pacote processador de imagens e publicação no Pypi] (https://github.com/isabela-rossetti/pacote_imagem_python)
+* [Modelo de Rede Neural utilizando Transfer Learning] (https://github.com/isabela-rossetti/transfer_learning_python)
+
+______
 
 
 
 <div align="center">
   <a href="https://github.com/isabela-rossetti">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=isabela-rossetti&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabela-rossetti&layout=compact&langs_count=7&theme=radical"/>
 
 </div>
 
