@@ -26,18 +26,36 @@
 
 ## Meus projetos
 
-* [Previsão de alugueis de biblicletas - Regressão utilizando o PyCaret] (https://github.com/isabela-rossetti/FLAI-9-Competicao-ML)
-* [Análise de dados - Campanha de marketing - Power BI] (https://github.com/isabela-rossetti/AnaliseCampanha)
-* [Análise exploratória de dados com Python e Pandas] (https://github.com/isabela-rossetti/analise_de_dados_python_pandas)
-* [Análise exploratória de uma Superstore utilizando serviços de BigData na AWS] (https://github.com/isabela-rossetti/analise_exploratoria_superstore_bigdata_aws)
-* [Análise da evolução da COVID-19 no Brasil utilizando ARIMA e Prophet] (https://github.com/isabela-rossetti/analise_de_dados_covid)
+**MACHINE LEARNING**
+
+- [Previsão de alugueis de biblicletas - Regressão utilizando o PyCaret] (https://github.com/isabela-rossetti/FLAI-9-Competicao-ML)
+- [Análise da evolução da COVID-19 no Brasil utilizando ARIMA e Prophet] (https://github.com/isabela-rossetti/analise_de_dados_covid)
+- [Modelo de Rede Neural utilizando Transfer Learning] (https://github.com/isabela-rossetti/transfer_learning_python)
+
+**AWS**
+
+- [Análise exploratória de uma Superstore utilizando serviços de BigData na AWS] (https://github.com/isabela-rossetti/analise_exploratoria_superstore_bigdata_aws)
+- [Criação de Banco de Dados DynamoDB] (https://github.com/isabela-rossetti/banco_de_dados_dynamoDB)
+
+**BANCO DE DADOS**
+
 * [Projeto Conceitual de Banco de Dados_E-Commerce] (https://github.com/isabela-rossetti/projeto_conceitual_bd_ecommerce)
 * [Projeto Lógico de Banco de Dados_E-Commerce e Queries SQL] (https://github.com/isabela-rossetti/projeto_logico_bd_ecommerce)
 * [Projeto Conceitual de Banco de Dados_Oficina] (https://github.com/isabela-rossetti/projeto_conceitual_bd_oficina)
 * [Projeto Lógico de Banco de Dados_Oficina e Queries SQL] (https://github.com/isabela-rossetti/projeto_logico_bd_oficina)
-* [Criação de Banco de Dados DynamoDB] (https://github.com/isabela-rossetti/banco_de_dados_dynamoDB)
+
+**ANÁLISE DE DADOS**
+
+* [Análise exploratória de dados com Python e Pandas] (https://github.com/isabela-rossetti/analise_de_dados_python_pandas)
+
+**POWER BI**
+
+- [Análise de dados - Campanha de marketing - Power BI] (https://github.com/isabela-rossetti/AnaliseCampanha)
+
+**PACOTES - PYTHON**
+
 * [Criação de pacote processador de imagens e publicação no Pypi] (https://github.com/isabela-rossetti/pacote_imagem_python)
-* [Modelo de Rede Neural utilizando Transfer Learning] (https://github.com/isabela-rossetti/transfer_learning_python)
+* [Criação de pacote calculadora_salario e publicação no Pypi] (https://github.com/isabela-rossetti/pacote_python)
 
 ______
 
