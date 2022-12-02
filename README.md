@@ -31,6 +31,7 @@
 - [Previsão de alugueis de biblicletas - Regressão utilizando o PyCaret] (https://github.com/isabela-rossetti/FLAI-9-Competicao-ML)
 - [Análise da evolução da COVID-19 no Brasil utilizando ARIMA e Prophet] (https://github.com/isabela-rossetti/analise_de_dados_covid)
 - [Modelo de Rede Neural utilizando Transfer Learning] (https://github.com/isabela-rossetti/transfer_learning_python)
+- [Propensão à morte por insuficiência cardíaca em indivíduos - Classificação utilizando o PySpark] (https://github.com/isabela-rossetti/classificacao_pyspark)
 
 **AWS**
 
