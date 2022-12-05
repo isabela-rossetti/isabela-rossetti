@@ -48,6 +48,7 @@
 **ANÁLISE DE DADOS**
 
 * [Análise exploratória de dados com Python e Pandas] (https://github.com/isabela-rossetti/analise_de_dados_python_pandas)
+* [Análise exploratória de dados com PySpark] (https://github.com/isabela-rossetti/analise_exploratoria_preco_gas_pyspark)
 
 **POWER BI**
 
