@@ -28,6 +28,7 @@
 
 **MACHINE LEARNING**
 
+- [Webapp previsao de probabilidade de venda] (https://github.com/isabela-rossetti/webapp-previsao_venda)
 - [Previsão de alugueis de biblicletas - Regressão utilizando o PyCaret] (https://github.com/isabela-rossetti/FLAI-9-Competicao-ML)
 - [Previsão de venda de produto - Classificação utilizando o PyCaret] (https://github.com/isabela-rossetti/FLAI_10_Competicao_ML)
 - [Análise da evolução da COVID-19 no Brasil utilizando ARIMA e Prophet] (https://github.com/isabela-rossetti/analise_de_dados_covid)
