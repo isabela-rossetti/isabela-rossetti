@@ -2,10 +2,9 @@
 
 ## Sou Isabela Rossetti
 
-* 🎓 Gestora
+* 🎓 Analista da Qualidade
 * 📊 Analista de Dados 
-* 👩‍💻 Cientista de Dados
-* 🎓 Técnica em Desenvolvimento de Sistemas - ETEC (em andamento)
+* 🎓 Técnica em Desenvolvimento de Sistemas
 
 ### Skills 👩‍💻
 
@@ -63,13 +62,6 @@
 
 ______
 
-
-
-<div align="center">
-  <a href="https://github.com/isabela-rossetti">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=isabela-rossetti&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Isabela-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
